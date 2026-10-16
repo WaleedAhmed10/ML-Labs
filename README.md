@@ -1,2 +1,2 @@
 # ML-Labs
-Lab Tasks done on Jupyter Notebook
+Lab Tasks are done on Jupyter Notebook
