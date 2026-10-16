@@ -1,2 +1,2 @@
-# ML-Labs-on-Jupyter
-Lab Tasks done related to Machine Learning
+# ML-Labs
+Lab Tasks done on Jupyter Notebook
